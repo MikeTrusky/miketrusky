@@ -11,6 +11,7 @@ I'm from Poland. I love programming, especially in C#: web apps in ASP.NET Core 
 
 ## Recently, I was ...
 
+- 🔭 ... working on a completely new web app project,
 - 🌱 ... working on [Journal&ToDo Mix](https://github.com/MikeTrusky/JournalToDoMix) project,
 - 🌱 ... and having a lot of fun with [Football Scraper](https://github.com/MikeTrusky/FootballScraper) project,
 - 💬 ... improving my english language vocabulary,
